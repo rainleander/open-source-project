@@ -2,7 +2,7 @@
 
 Introduction Video: https://www.youtube.com/watch?v=QhM3_a5C0LI
 
-[Contributions](contributors.md) are welcome to help extend this work!
+[Contributions](CONTRIBUTING.md) are welcome to help extend this work!
 
 ## Description
 
