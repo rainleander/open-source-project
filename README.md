@@ -8,7 +8,7 @@ Introduction Video: https://www.youtube.com/watch?v=QhM3_a5C0LI
 
 A blog series researching a few aspects of open source for https://metal.equinix.com/blog/. 
 
-* Itroduction / Overview
+* Introduction / Overview
 * History
 * Ethics
 * Licensing
