@@ -6,7 +6,7 @@ Introduction Video: https://www.youtube.com/watch?v=QhM3_a5C0LI
 
 ## Description
 
-A six month / six part blog series researching the top few aspects of open source. 
+A blog series researching a few aspects of open source for https://metal.equinix.com/blog/. 
 
 * Itroduction / Overview
 * History
