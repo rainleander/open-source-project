@@ -14,7 +14,8 @@ A six month / six part blog series researching the top few aspects of open sourc
 * Licensing
 * Governance
 * Business Model
-* Developer Model
+* Development Model
+* 
 
 ## Resources
 
