@@ -15,7 +15,7 @@ A six month / six part blog series researching the top few aspects of open sourc
 * Governance
 * Business Model
 * Development Model
-* 
+* Collaboration Model
 
 ## Resources
 
