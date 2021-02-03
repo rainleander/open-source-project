@@ -9,11 +9,13 @@ Introduction Video: https://www.youtube.com/watch?v=QhM3_a5C0LI
 A blog series researching a few aspects of open source for https://metal.equinix.com/blog/. 
 
 * Introduction / Overview
-* History
+* [History](https://www.youtube.com/watch?v=OCURRipDCv0)
   * https://opensource.org/history
   * https://en.wikipedia.org/wiki/History_of_free_and_open-source_software
   * https://opensource.com/article/18/2/pivotal-moments-history-open-source
   * https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
+  * Free as in Freedom : Richard Stallman's Crusade for Free Software
+  * Cathedral and the Bazaar Pb: Musings on Linux and Open Source by an Accidental Revolutionary
 * Ethics
 * Licensing
 * Governance
