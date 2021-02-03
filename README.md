@@ -10,6 +10,10 @@ A blog series researching a few aspects of open source for https://metal.equinix
 
 * Introduction / Overview
 * History
+  * https://opensource.org/history
+  * https://en.wikipedia.org/wiki/History_of_free_and_open-source_software
+  * https://opensource.com/article/18/2/pivotal-moments-history-open-source
+  * https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
 * Ethics
 * Licensing
 * Governance
